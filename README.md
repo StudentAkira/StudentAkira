@@ -29,5 +29,6 @@ Databases:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akira-7a1b4b232/)](https://www.linkedin.com/in/akira-7a1b4b232/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AkiraDevilmaNN)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yapakira82@gmail.com)](mailto:yapakira82@gmail.com)
-<!— Profile View Count and GitStats —>
+
+
 ![profile views](https://komarev.com/ghpvc/?username=StudentAkira&style=flat)
