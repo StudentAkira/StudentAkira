@@ -28,3 +28,8 @@ I'm Vlad, a passionate software developer with a love for implementing interesti
 
 
 ![profile views](https://komarev.com/ghpvc/?username=StudentAkira&style=flat)
+
+
+[![GitStats](https://img.shields.io/badge/-black?label=GitStats&style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/StudentAkira)
+
+[![StudentAkira's github stats](https://github-readme-stats.vercel.app/api?username=StudentAkira&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide=issues,contribs)](https://github.com/StudentAkira)
