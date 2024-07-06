@@ -5,12 +5,19 @@ Welcome to my GitHub profile!
 I'm Vlad, a passionate software developer with a love for implementing interesting ideas in code. My journey in tech has taken me through various languages, frameworks, and projects, and I'm excited to share some of my work with you here.
 
 🔧 Technologies & Tools I Enjoy:
+
 💥 Js/Ts (React)
+
 💢 Python (FastAPI, Django, DRF)
+
 🐋 Docker
+
 🐳 Docker-Compose
+
 📀 postgresql
+
 💿 mysql
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StudentAkira)](https://github.com/anuraghazra/github-readme-stats)
 
