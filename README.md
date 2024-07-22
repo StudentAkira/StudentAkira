@@ -12,11 +12,11 @@ I'm Vlad, a passionate software developer with a love for implementing interesti
 
 🐋 Docker
 
-🐳 Docker-Compose
+🐋 Docker-Compose
 
 📀 postgresql
 
-💿 mysql
+📀 mysql
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StudentAkira)](https://github.com/anuraghazra/github-readme-stats)
